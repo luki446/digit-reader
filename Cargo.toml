@@ -1,0 +1,8 @@
+[package]
+name = "digit-reader"
+version = "0.1.0"
+authors = ["luki"]
+edition = "2018"
+
+[dependencies]
+nn = "0.1.6"
